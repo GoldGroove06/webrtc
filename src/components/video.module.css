@@ -1,0 +1,16 @@
+.videoFeed{
+    
+    background-color: black;
+    width: 100%;
+    height: 100%;
+   
+
+}
+
+.VideoContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:2em;
+    
+    
+}
